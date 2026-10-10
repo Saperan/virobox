@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/hero.png" width="880" alt="ViroBox — Your files, scattered across Discord.">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.png">
+  <img src="assets/hero-light.png" width="880" alt="ViroBox — Your files, scattered across Discord.">
+</picture>
 
 **ViroBox** is free personal storage backed by Discord webhooks — uploads are
 split into ~19 MB parts, scattered across a pool of webhook channels, indexed,
