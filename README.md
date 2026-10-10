@@ -1,12 +1,14 @@
-# ViroBox
+<div align="center">
 
-**Free personal storage backed by Discord webhooks** — uploads are split into
-~19 MB parts, scattered across a pool of webhook channels, indexed, and
-streamed back verified.
+<img src="assets/hero.png" width="880" alt="ViroBox — Your files, scattered across Discord.">
 
-**https://virobox.cc**
+**ViroBox** is free personal storage backed by Discord webhooks — uploads are
+split into ~19 MB parts, scattered across a pool of webhook channels, indexed,
+and streamed back verified.
 
-<img src="assets/virobox-icon-512.png" width="96" alt="ViroBox icon">
+[virobox.cc](https://virobox.cc) · [Discord](https://discord.gg/6Dp792s53D) · [Releases](https://github.com/Saperan/virobox/releases)
+
+</div>
 
 ## Screenshots
 
