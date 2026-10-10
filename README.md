@@ -42,8 +42,9 @@ server keeps only the index; the bytes live in Discord channels you control.
 
 ## Desktop app
 
-Fast direct transfers (PC → Discord, no phone relay): Windows exe and a
-Linux AppImage, both downloadable from the site. The app handles uploads,
+Fast direct transfers (PC → Discord, no phone relay): a Windows exe,
+downloadable from the site. The same source builds a Linux AppImage
+(native window, tray stub, flock single-instance). The app handles uploads,
 downloads, torrents and browser-download handoff.
 
 ## FAQ
