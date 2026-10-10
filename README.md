@@ -8,6 +8,20 @@ streamed back verified.
 
 <img src="assets/virobox-icon-512.png" width="96" alt="ViroBox icon">
 
+## Screenshots
+
+Home — upload, browse and pools, with live counters:
+
+![Home](assets/home.png)
+
+Add a server — your own Discord server becomes the storage:
+
+![Add a server](assets/add.png)
+
+Upload — drop files, pick the pool:
+
+![Upload](assets/up.png)
+
 ## What it is
 
 ViroBox turns a set of Discord webhooks into personal file storage. The
